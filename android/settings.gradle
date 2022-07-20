@@ -1,0 +1,3 @@
+rootProject.name = 'livecare'
+
+include ':app-release'
